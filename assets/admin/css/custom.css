@@ -1,0 +1,35 @@
+div.card {
+    border-radius: 0 !important;
+}
+
+.form-control:focus {
+    border-color: #000000;
+}
+
+input.date-picker {
+    border: 0;
+    text-align: center;
+}
+
+.page-item.active .page-link {
+    background-color: #000000;
+    border-color: #000000;
+    border-radius: 0;
+}
+.page-item:first-child .page-link,.page-item:last-child .page-link{
+    border-radius: 0;
+    
+}
+
+.page-link:focus {
+    box-shadow: none;
+}
+
+.dt-buttons.btn-group.flex-wrap .btn {
+    border-radius: 0;
+}
+
+.dataTables_filter input.form-control {
+    border-radius: 0;
+}   
+
